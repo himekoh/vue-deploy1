@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" width="25%">
-    <HelloWorld msg="Hello Vue in CodeSandbox! ver2.1"/>
+    <HelloWorld msg="Hello Vue in CodeSandbox! ver2.2"/>
   </div>
 </template>
 
